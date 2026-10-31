@@ -2,7 +2,7 @@
 
 **Course:** 21CSE377T – Information Retrieval  
 **Dataset:** HuffPost News Category Dataset (Kaggle, Rishabh Misra)
-
+**Team Members :** DHARSHAN.S (RA2411026050206)  &  ASHWIN.M (RA2411026050184)
 ## Classification problem
 Predict a news article's category from its headline and short description.
 The initial experiment selects four categories with the largest class counts,
